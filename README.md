@@ -20,5 +20,5 @@ jadwal belajar
 - VSCode dan Live Server
 - 
 ## Tautan
-- Website: menyusul setelah *deploy* ke Vercel
+- Website: https://portofoliov1-bagasarya.vercel.app/
 - Dibuat oleh: Bagas Arya, SMKS Brantas Karangkates
